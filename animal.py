@@ -2,7 +2,7 @@ import sys
 def default():
     print('hello')
 def cat():
-    print('cat')
+    print('meow meow')
 def main():
     if sys.argv[1] == 'cat':
         cat()
