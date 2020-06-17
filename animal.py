@@ -12,5 +12,5 @@ def main():
         default()
 def dog():
     print('dog is barking, bho! bho! get afraid')
-if name__ =='__main__':
+if __name__ =='__main__':
     main()
